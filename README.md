@@ -4,3 +4,6 @@ There is also a 5gb file containing all the assets. If you want to use claude to
 
 Also since I am a bum and Don't know how to use github, use this drive link to download the assets.
 https://drive.google.com/file/d/1HdTJ54lixYRk2I3sA0w5TuQYO4fYhSEx/view?usp=sharing
+
+
+-Credits Gameloft team, Me and my parents, my homeroom teacher who told me to focus on my studies whom I disregarded to work on this project, my dog, and Claude👍
